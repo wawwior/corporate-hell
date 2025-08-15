@@ -35,6 +35,11 @@ hash = "2de88ed2cabe2c5b1ba3b2ba8d9ac974728384234b200cd922c1356faf740909"
 metafile = true
 
 [[files]]
+file = "mods/create-radars.pw.toml"
+hash = "d329779921574e5a4709ee468955af18c84546a2be55d13a0e49ca0fc88b0a6f"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "8f4676e10300eafe6969cb04e9e1d59424c957e97f5dea241472409f48c483f9"
 metafile = true
