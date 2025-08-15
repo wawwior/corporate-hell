@@ -1,0 +1,13 @@
+name = "Eternal Winter"
+filename = "eternalwinter-1.20.1-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BuHxYToz/versions/96ofMTKl/eternalwinter-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "4e28c893bfde7ae5af97e6630022560b1509f359bed587f637437084dd4fd24cb73f10bd39798f2a71cc3d5bd803fbc356a2a2058822a6b271abb22622a2bac7"
+
+[update]
+[update.modrinth]
+mod-id = "BuHxYToz"
+version = "96ofMTKl"

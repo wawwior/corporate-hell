@@ -1,2 +1,135 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "config/biome_replacer.properties"
+hash = "e272d750b97d2f0bbb81a00ec651e087b213cf21662c83252ee9987bf9d313e6"
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "bb9249eb531e2164610a93662bd14f151b9f76fadd0fb35add9f9ba3e14b8737"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "d6da3d9e4834b857398f1e50bcaddd5b2a47ee1be0164adc9bc8fd7be3534599"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "58458b5ea5eba986c14b79bab34f84e7f44dba5edcedff94c0122865ccb4c520"
+metafile = true
+
+[[files]]
+file = "mods/create-ccbr.pw.toml"
+hash = "a394326edcd2255782cb0071700e85392d512f49f5c3d377f407315587d28b07"
+metafile = true
+
+[[files]]
+file = "mods/create-netherless.pw.toml"
+hash = "2de88ed2cabe2c5b1ba3b2ba8d9ac974728384234b200cd922c1356faf740909"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "8f4676e10300eafe6969cb04e9e1d59424c957e97f5dea241472409f48c483f9"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "9c553500c771ace491481e52fb2a144e97ce332f03bc36155b62bcf5e64877ed"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/eternal-winter.pw.toml"
+hash = "053dbadb78e260106bb02c7de517371065f3bbc327491540272dc82bec96a1e5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "2e5763fe550d18dbbad6fe65d1a008312b022fe7020c985014b36fbfa89edce8"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "06891bb68a15a222e4e24b47f2167028d45bb55525a89dc30c680baf67797d82"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "ab170eabaeec3e80c59e850a7d8aee32edfffd6a1e40e2c2f44575c69d122054"
+metafile = true
+
+[[files]]
+file = "mods/no-more-ruined-portals.pw.toml"
+hash = "422e59ce6ade49c606a0b7a3237d8b484a0175dcdb672ead68b67fa5cfb5aee6"
+metafile = true
+
+[[files]]
+file = "mods/no-nether-portal.pw.toml"
+hash = "a622610c7b54835768930b5ef576e633f468d41ab4500cd1ce9b25bde9afee0c"
+metafile = true
+
+[[files]]
+file = "mods/no-stronghold.pw.toml"
+hash = "0938e528c13002c2f1a339b6f4be1f94b7f0fc1da1b53760435e8c1b211a8957"
+metafile = true
+
+[[files]]
+file = "mods/no-villages.pw.toml"
+hash = "7b7096395d67fc9335fdd10eca5a0dc45fd80dba801486b105661dfada88034e"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "de023c84385bc6e7399d54e2c172c96c95e501104c822496ff1b336ea11a60b3"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "2c7f4ac1ef436158a5911a6c8fa0390f34369be21b180c8858e1824fd4e4ee74"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "ae410d05070a1fd74bced0d747a54eec522921889b302d05b94cf4fc5d44e8dc"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "5c7bd7d2793e5e204eaf7e05ef055ce12d50d03529c8cc213ded0f78c24e5192"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "5acf665b02f3a79024123c7824fd13bcb29b955c8d03c13806e13253352fb012"
+metafile = true

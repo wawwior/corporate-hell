@@ -1,0 +1,13 @@
+name = "No Stronghold"
+filename = "no-stronghold-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mufpHDky/versions/6P5ssydw/no-stronghold-1.0.0.jar"
+hash-format = "sha512"
+hash = "6e176d98e4454c8603e5c081bfb3da5745e4369fa06ea8677b2788ed608c1afcfa633dd006e3b5ed3933d0187b9acd284f48f1bef6ab7c598f00450452921da0"
+
+[update]
+[update.modrinth]
+mod-id = "mufpHDky"
+version = "6P5ssydw"

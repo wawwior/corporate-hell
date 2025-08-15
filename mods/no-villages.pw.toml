@@ -1,0 +1,13 @@
+name = "No Villages"
+filename = "no-villages-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hjzKARiX/versions/Yv9hchRT/no-villages-1.0.jar"
+hash-format = "sha512"
+hash = "068d847a1db5f40e6cfcc3a52c6b8cc33f30260c23b9337aeda71f22014a95c111b0476e55dd52a7f309648f2b948dd6298a24542ed0f02e6990868784899734"
+
+[update]
+[update.modrinth]
+mod-id = "hjzKARiX"
+version = "Yv9hchRT"
