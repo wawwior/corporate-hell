@@ -60,6 +60,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
 file = "mods/eternal-winter.pw.toml"
 hash = "053dbadb78e260106bb02c7de517371065f3bbc327491540272dc82bec96a1e5"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2e5763fe550d18dbbad6fe65d1a008312b022fe7020c985014b36fbfa89edce8"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
 metafile = true
 
 [[files]]
