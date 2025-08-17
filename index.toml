@@ -90,6 +90,11 @@ hash = "9c553500c771ace491481e52fb2a144e97ce332f03bc36155b62bcf5e64877ed"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "a69ac7bfb6794ca33881e41855b06b6af01519207770da67a72798ee8fcebf5a"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
