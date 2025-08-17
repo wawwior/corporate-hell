@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
+hash = "6a39209755d8ae9f0bf9e3875a320d6ccaf078e50b2a3b9c98d63b64607dd6bf"
 metafile = true
 
 [[files]]
@@ -30,53 +30,18 @@ hash = "d6da3d9e4834b857398f1e50bcaddd5b2a47ee1be0164adc9bc8fd7be3534599"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
+file = "mods/create-clockwork.pw.toml"
+hash = "d31c742e6dacf85d60415a75dbbe70e68ce17839ceeec858235f599606ab4632"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "58458b5ea5eba986c14b79bab34f84e7f44dba5edcedff94c0122865ccb4c520"
-metafile = true
-
-[[files]]
-file = "mods/create-ccbr.pw.toml"
-hash = "a394326edcd2255782cb0071700e85392d512f49f5c3d377f407315587d28b07"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
-metafile = true
-
-[[files]]
-file = "mods/create-netherless.pw.toml"
-hash = "2de88ed2cabe2c5b1ba3b2ba8d9ac974728384234b200cd922c1356faf740909"
-metafile = true
-
-[[files]]
-file = "mods/create-radars.pw.toml"
-hash = "d329779921574e5a4709ee468955af18c84546a2be55d13a0e49ca0fc88b0a6f"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "809b6d4cb3454599c2f55610364519ddf93bbb089fab27a6d43db0f536902b0d"
-metafile = true
-
-[[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "8f4676e10300eafe6969cb04e9e1d59424c957e97f5dea241472409f48c483f9"
+file = "mods/create-propulsion.pw.toml"
+hash = "4abe8d2eab7c8e327597b05f600ef2dd1ab061ed86e5d72d7a496b3db6a9892b"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
-metafile = true
-
-[[files]]
-file = "mods/createaddoncompatibility.pw.toml"
-hash = "abc9d37db15b923cab7bab5561e1ca7bf842d82a62ee04a1e20a4c4e9c031433"
+hash = "8e1458545562e91bbdcbd572a5c2f3b741c109698d42a2a0652e2a317126fb5f"
 metafile = true
 
 [[files]]
@@ -130,6 +95,11 @@ hash = "2e5763fe550d18dbbad6fe65d1a008312b022fe7020c985014b36fbfa89edce8"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "c280e2b0fec3014a909c19bb654492d58d7c272307e2a2920f13125016a2d8eb"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
 metafile = true
@@ -137,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "06891bb68a15a222e4e24b47f2167028d45bb55525a89dc30c680baf67797d82"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
@@ -197,6 +172,16 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "5c7bd7d2793e5e204eaf7e05ef055ce12d50d03529c8cc213ded0f78c24e5192"
+metafile = true
+
+[[files]]
+file = "mods/trackwork.pw.toml"
+hash = "28be4cbc383219609173f427c918e0593e98498accd31fdb923ab00d8e6cbe3d"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "559456029cff17724272b8307ea10e5745e4fcfa0991c6c9c9516a8b7fba6309"
 metafile = true
 
 [[files]]
