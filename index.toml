@@ -5,6 +5,16 @@ file = "config/biome_replacer.properties"
 hash = "e272d750b97d2f0bbb81a00ec651e087b213cf21662c83252ee9987bf9d313e6"
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "57c0f350262f81f6768226f833a7bc3d6d9d6342c4e2c77a0f477043483c42b9"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
 file = "mods/biome-replacer.pw.toml"
 hash = "bb9249eb531e2164610a93662bd14f151b9f76fadd0fb35add9f9ba3e14b8737"
 metafile = true
@@ -20,6 +30,11 @@ hash = "d6da3d9e4834b857398f1e50bcaddd5b2a47ee1be0164adc9bc8fd7be3534599"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "58458b5ea5eba986c14b79bab34f84e7f44dba5edcedff94c0122865ccb4c520"
 metafile = true
@@ -27,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/create-ccbr.pw.toml"
 hash = "a394326edcd2255782cb0071700e85392d512f49f5c3d377f407315587d28b07"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
 metafile = true
 
 [[files]]
@@ -40,6 +60,11 @@ hash = "d329779921574e5a4709ee468955af18c84546a2be55d13a0e49ca0fc88b0a6f"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "809b6d4cb3454599c2f55610364519ddf93bbb089fab27a6d43db0f536902b0d"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "8f4676e10300eafe6969cb04e9e1d59424c957e97f5dea241472409f48c483f9"
 metafile = true
@@ -47,6 +72,16 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
+metafile = true
+
+[[files]]
+file = "mods/createaddoncompatibility.pw.toml"
+hash = "abc9d37db15b923cab7bab5561e1ca7bf842d82a62ee04a1e20a4c4e9c031433"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -72,6 +107,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "bfe1b9ef08ea1e5e3a49a449105d91718a74cf10628964c86897d7ae5fac20be"
 metafile = true
 
 [[files]]
@@ -130,6 +175,11 @@ hash = "de023c84385bc6e7399d54e2c172c96c95e501104c822496ff1b336ea11a60b3"
 metafile = true
 
 [[files]]
+file = "mods/scorched-guns-2.pw.toml"
+hash = "5d86ce8089d611154029666ebc6b0eba8562b94830756c4ee0ed1c6e89506944"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "2c7f4ac1ef436158a5911a6c8fa0390f34369be21b180c8858e1824fd4e4ee74"
 metafile = true
@@ -145,6 +195,16 @@ hash = "5c7bd7d2793e5e204eaf7e05ef055ce12d50d03529c8cc213ded0f78c24e5192"
 metafile = true
 
 [[files]]
+file = "mods/yet-another-furniture.pw.toml"
+hash = "712faed276c29504049444d26034665f76630b36b9c8986f525cc166661294cb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
 hash = "5acf665b02f3a79024123c7824fd13bcb29b955c8d03c13806e13253352fb012"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
